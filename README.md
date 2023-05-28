@@ -1,5 +1,5 @@
 <h1>🎮 Tic Tac Toe Project | HTML | CSS | JavaScript 🌐</h1>
-🔗 GitHub Repository: [Link to your GitHub repository]
+🔗 GitHub Repository: <a href="https://github.com/manjjott/Tic-Tac-Toe-.git"> Tic-Tac-Toe Game </a>
 
 👋 Welcome to the Tic Tac Toe Project! This interactive game was built using HTML, CSS, and JavaScript to provide a fun and engaging experience for players of all ages.
 

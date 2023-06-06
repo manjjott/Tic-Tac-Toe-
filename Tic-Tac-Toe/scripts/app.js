@@ -45,8 +45,5 @@ formElement.addEventListener("submit", savePlayerConfig);
 
 startNewGameBtnElement.addEventListener("click", startNewGame);
 
-// for (const gameFieldElement of gameFieldElements) {
-//   gameFieldElement.addEventListener('click', selectGameField);
-// }
 
 gameBoardElement.addEventListener("click", selectGameField);
